@@ -2,15 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
   <url>
     <loc>https://nodo-verificacion.github.io/</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-
-  <!-- ES -->
   <url>
     <loc>https://nodo-verificacion.github.io/gaspi-helicoptero/</loc>
     <lastmod>2026-06-16</lastmod>
@@ -29,8 +26,6 @@
       <news:keywords>Gaspi, Oliver Tree, Lucas Vignale, helicóptero Recreio, accidente aéreo Río de Janeiro 2026, PP-MAC, IML</news:keywords>
     </news:news>
   </url>
-
-  <!-- EN -->
   <url>
     <loc>https://nodo-verificacion.github.io/en/oliver-tree-helicopter-crash/</loc>
     <lastmod>2026-06-16</lastmod>
@@ -49,8 +44,6 @@
       <news:keywords>Oliver Tree helicopter crash, Oliver Tree death Brazil, Gaspi, Lucas Vignale, helicopter Recreio, air accident Rio de Janeiro 2026, PP-MAC, IML</news:keywords>
     </news:news>
   </url>
-
-  <!-- PT -->
   <url>
     <loc>https://nodo-verificacion.github.io/pt/acidente-helicoptero-oliver-tree-gaspi/</loc>
     <lastmod>2026-06-16</lastmod>
@@ -69,5 +62,4 @@
       <news:keywords>Oliver Tree acidente helicóptero, Oliver Tree morte Rio de Janeiro, Gaspi morte, Lucas Vignale, helicóptero Recreio, acidente aéreo Rio de Janeiro 2026, PP-MAC, IML</news:keywords>
     </news:news>
   </url>
-
 </urlset>

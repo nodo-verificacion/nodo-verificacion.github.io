@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://nodo-verificacion.github.io/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Nodo Verificación</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16</news:publication_date>
+      <news:title>Colisión de helicópteros en Recreio dos Bandeirantes: análisis verificado — Gaspi, Oliver Tree, Vignale</news:title>
+      <news:keywords>Gaspi, Oliver Tree, Lucas Vignale, helicóptero Recreio, accidente aéreo Río de Janeiro 2026, PP-MAC, IML</news:keywords>
+    </news:news>
+  </url>
+</urlset>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nodo-verificacion.github.io/</loc>
@@ -16,14 +15,7 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://nodo-verificacion.github.io/gaspi-helicoptero/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://nodo-verificacion.github.io/en/oliver-tree-helicopter-crash/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://nodo-verificacion.github.io/pt/acidente-helicoptero-oliver-tree-gaspi/"/>
-    <news:news>
-      <news:publication>
-        <news:name>Nodo Verificación</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-16</news:publication_date>
-      <news:title>Colisión de helicópteros en Recreio dos Bandeirantes: análisis verificado — Gaspi, Oliver Tree, Vignale</news:title>
-    </news:news>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nodo-verificacion.github.io/gaspi-helicoptero/"/>
   </url>
   <url>
     <loc>https://nodo-verificacion.github.io/en/oliver-tree-helicopter-crash/</loc>
@@ -33,14 +25,7 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://nodo-verificacion.github.io/gaspi-helicoptero/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://nodo-verificacion.github.io/en/oliver-tree-helicopter-crash/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://nodo-verificacion.github.io/pt/acidente-helicoptero-oliver-tree-gaspi/"/>
-    <news:news>
-      <news:publication>
-        <news:name>Nodo Verificación</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-16</news:publication_date>
-      <news:title>Recreio dos Bandeirantes helicopter collision: verified analysis — Oliver Tree, Gaspi, Vignale</news:title>
-    </news:news>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nodo-verificacion.github.io/gaspi-helicoptero/"/>
   </url>
   <url>
     <loc>https://nodo-verificacion.github.io/pt/acidente-helicoptero-oliver-tree-gaspi/</loc>
@@ -50,13 +35,6 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://nodo-verificacion.github.io/gaspi-helicoptero/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://nodo-verificacion.github.io/en/oliver-tree-helicopter-crash/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://nodo-verificacion.github.io/pt/acidente-helicoptero-oliver-tree-gaspi/"/>
-    <news:news>
-      <news:publication>
-        <news:name>Nodo Verificación</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-16</news:publication_date>
-      <news:title>Acidente helicóptero Oliver Tree e Gaspi Recreio 2026: análise verificada</news:title>
-    </news:news>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nodo-verificacion.github.io/gaspi-helicoptero/"/>
   </url>
 </urlset>

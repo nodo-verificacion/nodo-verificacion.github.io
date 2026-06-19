@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://nodo-verificacion.github.io/gaspi-helicoptero/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Nodo Verificacion</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16</news:publication_date>
+      <news:title>Colision de helicopteros en Recreio dos Bandeirantes: analisis verificado - Gaspi, Oliver Tree, Vignale</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://nodo-verificacion.github.io/en/oliver-tree-helicopter-crash/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Nodo Verificacion</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16</news:publication_date>
+      <news:title>Recreio dos Bandeirantes helicopter collision: verified analysis - Oliver Tree, Gaspi, Vignale</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://nodo-verificacion.github.io/pt/acidente-helicoptero-oliver-tree-gaspi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Nodo Verificacion</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16</news:publication_date>
+      <news:title>Acidente helicoptero Oliver Tree e Gaspi Recreio 2026: analise verificada</news:title>
+    </news:news>
+  </url>
+</urlset>
